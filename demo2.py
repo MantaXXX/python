@@ -2,4 +2,5 @@
 # input() 使用 ' ' 可加入想要的文字 
 a=int(input('a='))
 b=int(input('b='))
-print(a+b)
+c=int(input('c='))
+print(a+b+c)
